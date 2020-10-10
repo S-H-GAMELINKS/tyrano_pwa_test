@@ -1,6 +1,6 @@
 {
-    "name": "GAME_TITLE",
     "short_name": "SHORTNAME",
+    "name": "GAME_TITLE",
     "icons": [
         {
             "src": "link.png",
